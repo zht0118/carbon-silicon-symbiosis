@@ -1,3 +1,10 @@
+<div align="center">
+
+!<License: MIT>
+!<Status: Active>
+
+</div>
+
 # 🌌 Carbon-Silicon Symbiosis / 碳硅共生计划
 
 > **Empowering Humanity, Evolving with Intelligence.**
